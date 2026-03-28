@@ -1,0 +1,92 @@
+{
+  "date": "2026-02-04",
+  "day_of_week": "수요일",
+  "raw_input": [
+    "지금 12시50분 인천2터미널 행 공항버스 타고 이동중",
+    "오늘 택배 이동형 그립 XS 10개, JS 2개 정진영 SO 1개",
+    "미국형 31개중 4대 미국출장중 홍보용으로 가지고 감"
+  ],
+  "attendance": {
+    "business_trip": true,
+    "destination": "미국 하와이",
+    "departure_date": "2026-02-04",
+    "return_date": "2026-02-13",
+    "travelers": [
+      "오세열",
+      "김동국 대표",
+      "김동국 대표 부인"
+    ],
+    "total_travelers": 3
+  },
+  "travel": {
+    "departure_flight": {
+      "flight_number": "OZ232",
+      "route": "인천 → 호놀룰루",
+      "departure_time": "20:20",
+      "date": "2026-02-04"
+    },
+    "return_flight": {
+      "flight_number": "OZ231",
+      "route": "호놀룰루 → 서울",
+      "departure_time": "11:10",
+      "date": "2026-02-13"
+    },
+    "current_status": {
+      "time": "12:50",
+      "location": "공항버스",
+      "destination": "인천공항 2터미널",
+      "status": "이동 중"
+    }
+  },
+  "shipping": {
+    "items": [
+      {
+        "product": "이동형 그립 XS",
+        "quantity": 10,
+        "recorded_at": "14:59"
+      },
+      {
+        "product": "JS",
+        "quantity": 2,
+        "recipient": "정진영",
+        "recorded_at": "14:59"
+      },
+      {
+        "product": "SO",
+        "quantity": 1,
+        "recorded_at": "14:59"
+      }
+    ],
+    "total_count": 13,
+    "handled_by": "허영주 팀장"
+  },
+  "inventory_movement": {
+    "미국형": {
+      "previous_stock": 31,
+      "taken_for_trip": 4,
+      "current_stock": 27,
+      "purpose": "미국 하와이 출장 홍보용",
+      "recorded_at": "18:25"
+    }
+  },
+  "work": {
+    "team_lead_heo": [
+      "택배 발송 처리 (13개)"
+    ]
+  },
+  "summary": {
+    "status": "미국 하와이 출장 출발",
+    "shipping_count": 13,
+    "shipping_items": [
+      "이동형 그립 XS 10개",
+      "JS 2개 (정진영)",
+      "SO 1개"
+    ],
+    "inventory": {
+      "미국형_출장용": 4,
+      "미국형_재고": 27
+    }
+  },
+  "memo": "미국 하와이 출장 출발\n12:50 공항버스 탑승 → 인천공항 2터미널\n출발: 20:20 OZ232편 (인천→호놀룰루)\n귀국: 2/13 11:10 OZ231편\n\n택배 발송: 이동형 그립 XS 10개, JS 2개 (정진영), SO 1개\n\n공항에서 작업:\n- Kmy 폴더 hwp/hwpx 파일 정리 (총 15개)\n- 위덕대학교 채용공고 확인 (고미영 관련)\n- 맥미니 디스크 용량 확인 (26GB 여유)\n\n재고 이동:\n- 미국형 31개 → 4대 출장 홍보용 반출 → 재고 27개",
+  "recorded_at": "13:28, 14:59, 17:20, 17:28, 18:25"
+}

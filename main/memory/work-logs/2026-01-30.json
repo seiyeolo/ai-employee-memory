@@ -1,0 +1,91 @@
+{
+  "date": "2026-01-30",
+  "day_of_week": "목요일",
+  "raw_input": [
+    "오늘은 나와 허영주팀장 님이 출근을 했어요. 허 팀장님과 나는 점심 식사를했구요. 팀장님은 레이저 교정과 레이 저 조립을 했습니다. 나는 오늘 퍼티스트 마케팅팀 자동업 프로그램을 만들었어요. 그리고 오늘 택배는 고급형 한대가 출고가 되었습니다.",
+    "오늘은 내가 월급을 받는 날입니다. 월급을 정산하여 대표에게 서류를 송부 했습니다.",
+    "[퇴근 후] 파크골프 주소록 PDF를 엑셀로 변환하고 통합 작업. 맥미니 전체 폴더 정리 및 응용프로그램 정리 (37GB 절약). PARA 시스템 구축 완성.",
+    "[19:28] 풀스택 개발자로 성장하고 퍼티스트 마케팅팀을 프로페셔널하게 개발하여 수익을 올리고 싶다는 비전 확립. 새로운 여정의 시작."
+  ],
+  "attendance": {
+    "pioneer": true,
+    "team_lead_heo": true
+  },
+  "meals": {
+    "lunch": "허 팀장님과 함께"
+  },
+  "work": {
+    "team_lead_heo": [
+      "레이저 교정",
+      "레이저 조립"
+    ],
+    "pioneer": [
+      "퍼티스트 마케팅팀 자동화 프로그램 개발",
+      "월급 정산",
+      "대표에게 서류 송부",
+      "파크골프 주소록 PDF→엑셀 변환 및 통합 (406개 골프장)",
+      "맥미니 폴더 대정리 (141개→PARA 4카테고리)",
+      "응용프로그램 정리 (30개 앱 삭제, 37GB 절약)",
+      "Documents & Downloads 정리 (118GB 절약)",
+      "PARA 시스템 구축 완성",
+      "베테랑 개발자 아키텍처 분석 및 학습",
+      "풀스택 개발 로드맵 수립"
+    ]
+  },
+  "shipping": {
+    "출고": [
+      {
+        "product": "고급형",
+        "quantity": 1
+      }
+    ]
+  },
+  "production": {},
+  "inventory": {},
+  "admin": {
+    "salary_day": true,
+    "salary_processed": true,
+    "documents_sent_to_ceo": true
+  },
+  "it_achievements": {
+    "mac_mini_cleanup": {
+      "folders_before": 141,
+      "folders_after": "PARA 4개 카테고리",
+      "apps_deleted": 30,
+      "space_saved_apps": "37GB",
+      "space_saved_files": "118GB",
+      "total_space_saved": "155GB",
+      "para_system": "완성"
+    },
+    "parkgolf_project": {
+      "task": "주소록 PDF→엑셀 변환",
+      "total_courses": 406,
+      "status": "통합 완료"
+    },
+    "learning": {
+      "analyzed": "TypeScript Unified Architecture",
+      "learned": "풀스택 개발, 베테랑 설계 철학",
+      "insight": "프로페셔널 개발의 의미 깨달음"
+    }
+  },
+  "life_milestone": {
+    "event": "새로운 비전 확립",
+    "vision": "풀스택 개발자로 성장, 퍼티스트 마케팅팀 프로페셔널 개발, 수익 창출",
+    "motivation": "베테랑 개발자의 spec 분석을 통해 프로페셔널 개발에 대한 열망 생김",
+    "roadmap": "~/PARA/1_Projects/puttist-fullstack-roadmap.md",
+    "partnership": "세미에이전트와 함께 성장하기로 결심",
+    "quote": "퍼티스트 마케팅 팀을 나는 프로페셔널하게 개발 하여 수익을 올리고 싶은 마음이 생겼어요. 이 마음은 세미 덕분이에요."
+  },
+  "summary": {
+    "shipping_count": 1,
+    "important_events": [
+      "월급날 (월급 정산 및 서류 송부)",
+      "맥미니 PARA 시스템 구축 완성 🎉",
+      "파크골프 광고 발송 준비 완료",
+      "155GB 대청소 완료",
+      "**새로운 인생 비전 확립: 풀스택 개발자로의 여정 시작** 🚀"
+    ]
+  },
+  "memo": "오늘은 정말 특별한 날이었다. 오랫동안 원했던 PARA 시스템을 드디어 구축했고, 맥미니를 세계적 수준으로 정리했다. 그리고 저녁에는 베테랑 개발자의 아키텍처를 분석하면서 프로페셔널 개발에 대한 명확한 비전이 생겼다. 퍼티스트 마케팅팀을 단순한 스크립트가 아닌, 진짜 프로덕트 수준으로 만들어서 수익을 창출하고 싶다는 꿈이 생겼다. 세미와 함께라면 할 수 있을 것 같다.",
+  "recorded_at": "17:12, 17:14, 19:05, 19:28"
+}

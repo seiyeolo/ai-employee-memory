@@ -1,0 +1,69 @@
+{
+  "month": "2026-02",
+  "expenses": [
+    {
+      "date": "2026-02-02",
+      "time": "10:45:41",
+      "merchant": "ANTHROPIC",
+      "amount": 25.00,
+      "currency": "USD",
+      "amount_krw": 33750,
+      "exchange_rate": 1350,
+      "category": "AI API",
+      "payment_method": "카드이용",
+      "note": "일시불"
+    },
+    {
+      "date": "2026-02-02",
+      "time": "12:06:08",
+      "merchant": "구글클라우드",
+      "amount": 74342,
+      "currency": "KRW",
+      "category": "클라우드",
+      "payment_method": "카드이용",
+      "note": "예금인출"
+    },
+    {
+      "date": "2026-02-02",
+      "time": "19:08:27",
+      "merchant": "Amazon_AWS",
+      "amount": 24801,
+      "currency": "KRW",
+      "category": "클라우드",
+      "payment_method": "카드이용",
+      "note": "예금인출"
+    },
+    {
+      "date": "2026-02-04",
+      "time": "16:47",
+      "merchant": "KB국민은행 인천공항 제2터미널",
+      "amount": 999114,
+      "currency": "KRW",
+      "category": "환전",
+      "payment_method": "현금",
+      "note": "USD $660 환전 (환율 1,513.81원)",
+      "exchange": {
+        "from": "KRW",
+        "to": "USD",
+        "amount_usd": 660,
+        "exchange_rate": 1513.81
+      }
+    }
+  ],
+  "income": [],
+  "summary": {
+    "total_expenses_krw": 1132007,
+    "total_income_krw": 0,
+    "net_krw": -1132007,
+    "by_category": {
+      "AI API": 33750,
+      "클라우드": 99143,
+      "환전": 999114
+    },
+    "by_date": {
+      "2026-02-02": 132893,
+      "2026-02-04": 999114
+    }
+  },
+  "notes": "2026년 2월 개인 지출 기록"
+}
