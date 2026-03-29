@@ -222,7 +222,7 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 
 호출 방법:
 ```
-exec: claude --print "작업 내용을 구체적으로 기술" --workspace /Users/mac/clawd
+exec: /Users/mac/.npm-global/bin/claude --print "작업 내용을 구체적으로 기술" --workspace /Users/mac/clawd
 ```
 
 **직접 처리 (위임하지 않는 업무):**
