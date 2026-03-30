@@ -1,0 +1,18 @@
+# 대용량 파일 제외
+*.pdf
+*.PDF
+*.pack
+*.idx
+
+# AI 대화 분석 원본 (너무 큼)
+main/knowledge/AI대화분석/
+main/knowledge/OpenClaw-101/.git/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.bak
+*.log
