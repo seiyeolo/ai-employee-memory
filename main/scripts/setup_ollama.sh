@@ -149,7 +149,7 @@ cat > ~/.clawdbot/clawdbot.json << EOL
     },
     "entries": {
       "nano-banana-pro": {
-        "apiKey": "YOUR_API_KEY_HERE"
+        "apiKey": "${ANTHROPIC_API_KEY}"
       },
       "coding-agent": {
         "enabled": true
