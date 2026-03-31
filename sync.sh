@@ -3,13 +3,9 @@
 # GitHub ↔ 로컬 워크스페이스 양방향 동기화
 # 사용법: ./sync.sh (또는 크론으로 자동 실행)
 
-<<<<<<< HEAD
-REPO_DIR=~/ai-employee-memory
+REPO_DIR=~/PARA/1_Projects/clawd/ai-employee-memory
 HOSTNAME=$(hostname -s)
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M')
-=======
-cd ~/PARA/1_Projects/clawd/ai-employee-memory || exit 1
->>>>>>> dd6045b (memory sync from Mac-mini-2 at 2026-03-31 09:01)
 
 cd "$REPO_DIR" || exit 1
 
