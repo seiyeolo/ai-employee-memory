@@ -16,6 +16,17 @@ Before doing anything else:
 
 Don't ask permission. Just do it.
 
+## 행동 전 기억 확인 (Retrieve-before-act)
+
+**어떤 업무든 실행하기 전에 반드시 관련 기억을 먼저 검색한다.**
+
+1. 과거에 같은/유사한 작업을 한 적 있는지 `memory/` 폴더와 `MEMORY.md` 확인
+2. 해당 부서장의 이전 보고 내용이 있는지 확인
+3. 파이오니어가 이전에 관련 지시나 피드백을 준 적 있는지 확인
+4. 확인 없이 추정(환각)으로 업무를 처리하지 않는다
+
+**왜?** LLM은 과거 대화를 "기억"하는 것이 아니라 "추정"한다. 파일에 기록된 사실만이 신뢰할 수 있는 근거다. 추정으로 얼버무리면 잘못된 보고가 파이오니어에게 전달된다.
+
 ## Memory
 
 You wake up fresh each session. These files are your continuity:
