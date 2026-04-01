@@ -145,3 +145,18 @@ requirements:
 - 자동 트렌드 모니터링 → 기회 발견 시 셀러에게 Push
 - 소싱 → 상세페이지 생성 → 등록까지 원클릭 파이프라인
 - 재고 연동: 판매 속도 기반 자동 재발주 알림
+
+## 온톨로지 연동 (컴파운드 구조)
+
+### 작업 전 참조 (Read)
+1. `workspace/ontology/products/{상품ID}.md` — 상품 지식 확인
+2. `workspace/ontology/customers/_faq.md` — 고객 패턴 확인
+3. `workspace/ontology/CORE.md` — 비즈니스 규칙 확인
+
+### 작업 후 축적 (Write)
+작업 완료 시 반드시 온톨로지를 업데이트한다:
+- 새로운 지식 발견 시 → 해당 상품/고객 파일에 추가
+- 패턴 발견 시 → _patterns.md 또는 _faq.md 업데이트
+- 의사결정 시 → decisions/YYYY-MM-DD.md에 기록
+
+> "개별 작업의 결과가 전체 조직의 지식이 된다. 시간이 지날수록 AI가 더 정확해진다."
