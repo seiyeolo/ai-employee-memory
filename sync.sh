@@ -62,6 +62,15 @@ if [ -d ~/clawd/knowledge ]; then
     rsync -a ~/clawd/knowledge/ "$REPO_DIR/main/knowledge/" 2>/dev/null
 fi
 
+# memory 폴더 및 MEMORY.md
+if [ -d ~/clawd/memory ]; then
+    mkdir -p "$REPO_DIR/main/memory"
+    rsync -a ~/clawd/memory/ "$REPO_DIR/main/memory/" 2>/dev/null
+fi
+if [ -f ~/clawd/MEMORY.md ]; then
+    cp ~/clawd/MEMORY.md "$REPO_DIR/main/" 2>/dev/null
+fi
+
 # ── 3. 변경사항 있으면 GitHub에 푸시 ──
 if [ -n "$(git status --porcelain)" ]; then
     git add -A
