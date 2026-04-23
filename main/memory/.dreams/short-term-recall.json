@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T06:26:06.138Z",
+  "updatedAt": "2026-04-23T07:02:43.080Z",
   "entries": {
     "memory:memory/work-logs/2026-03-31.md:1:8": {
       "key": "memory:memory/work-logs/2026-03-31.md:1:8",
@@ -9,18 +9,20 @@
       "endLine": 8,
       "source": "memory",
       "snippet": "# 2026-03-31 업무 로그 ## 택배 출고 | 수신처 | 상품 | 수량 | 운송장번호 | 택배사 | 비고 | |--------|------|------|-----------|--------|------| | 오엠아이코리아 | 일반형 | 10대 | 2505-5440-8436 | 롯데택배 | 플랫폼 직접발송 |",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3804118484258652,
-      "maxScore": 0.3804118484258652,
+      "totalScore": 0.7679913341999054,
+      "maxScore": 0.3875794857740402,
       "firstRecalledAt": "2026-04-17T06:26:06.138Z",
-      "lastRecalledAt": "2026-04-17T06:26:06.138Z",
+      "lastRecalledAt": "2026-04-23T07:02:43.080Z",
       "queryHashes": [
-        "cd30b08ee4bb"
+        "cd30b08ee4bb",
+        "f2f88a7739fc"
       ],
       "recallDays": [
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-23"
       ],
       "conceptTags": [
         "2505-5440-8436",
