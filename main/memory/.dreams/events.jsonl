@@ -3,3 +3,4 @@
 {"type":"memory.recall.recorded","timestamp":"2026-04-24T06:28:40.579Z","query":"2026년 4월 20일 21일 22일 23일 24일 출고 재고 발송","resultCount":1,"results":[{"path":"memory/work-logs/2026-03-31.md","startLine":1,"endLine":8,"score":0.354511284828186}]}
 {"type":"memory.recall.recorded","timestamp":"2026-04-28T07:19:31.499Z","query":"택배 엑셀 출고량 재고","resultCount":1,"results":[{"path":"memory/work-logs/2026-03-31.md","startLine":1,"endLine":8,"score":0.395716917514801}]}
 {"type":"memory.recall.recorded","timestamp":"2026-04-28T07:19:31.523Z","query":"재고 현황 출고 택배시스템 재고변동","resultCount":1,"results":[{"path":"memory/work-logs/2026-03-31.md","startLine":1,"endLine":8,"score":0.3757784605026245}]}
+{"type":"memory.recall.recorded","timestamp":"2026-04-30T07:03:40.897Z","query":"택배시스템 엑셀 재고","resultCount":1,"results":[{"path":"memory/work-logs/2026-03-31.md","startLine":1,"endLine":8,"score":0.3627432197332382}]}
