@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T07:03:40.897Z",
+  "updatedAt": "2026-05-04T16:00:46.547Z",
   "entries": {
     "memory:memory/work-logs/2026-03-31.md:1:8": {
       "key": "memory:memory/work-logs/2026-03-31.md:1:8",
@@ -133,6 +133,37 @@
         "업데이트",
         "신규",
         "항목"
+      ]
+    },
+    "memory:memory/2026-05-01.md:1:2": {
+      "key": "memory:memory/2026-05-01.md:1:2",
+      "path": "memory/2026-05-01.md",
+      "startLine": 1,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "[2026-05-01 16:00 KST] 일일 재고 변동 체크: 택배시스템 경로(`/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/퍼티스트/05_운영_관리/택배시스템/택배시스템`) 확인. 202605 폴더 및 2026_05_01 당일 택배 엑셀 없음. 최신 택배 파일은 2026-04-20 08:44 수정된 `202604/택배/(주)퍼티스트_택배시스템(기본형식)_2027_04_20.xlsx`이며, 4/17 이후 당일 형식 파일이 갱신되지 않음. MEMORY.md 재고 기준은 2026-04-06 기준: 한국형 고급형 완성품 120개, 한국형 일반형 41개, 증정품(일반형) 3대 등. 당일 출고량 산정 불가, 재고 변동 반영 없음.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38142555654048915,
+      "maxScore": 0.38142555654048915,
+      "firstRecalledAt": "2026-05-04T16:00:46.547Z",
+      "lastRecalledAt": "2026-05-04T16:00:46.547Z",
+      "queryHashes": [
+        "f07c44daf267"
+      ],
+      "recallDays": [
+        "2026-05-05"
+      ],
+      "conceptTags": [
+        "users/mac/library/mobile",
+        "documents/com",
+        "202604/택배",
+        "퍼티스트-택배시스템",
+        "4/17",
+        "memory.md",
+        "kst",
+        "일일"
       ]
     }
   }
