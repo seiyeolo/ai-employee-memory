@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T07:00:20.854Z",
+  "updatedAt": "2026-05-06T07:00:16.687Z",
   "entries": {
     "memory:memory/work-logs/2026-03-31.md:1:8": {
       "key": "memory:memory/work-logs/2026-03-31.md:1:8",
@@ -142,19 +142,21 @@
       "endLine": 2,
       "source": "memory",
       "snippet": "[2026-05-01 16:00 KST] 일일 재고 변동 체크: 택배시스템 경로(`/Users/mac/Library/Mobile Documents/com~apple~CloudDocs/퍼티스트/05_운영_관리/택배시스템/택배시스템`) 확인. 202605 폴더 및 2026_05_01 당일 택배 엑셀 없음. 최신 택배 파일은 2026-04-20 08:44 수정된 `202604/택배/(주)퍼티스트_택배시스템(기본형식)_2027_04_20.xlsx`이며, 4/17 이후 당일 형식 파일이 갱신되지 않음. MEMORY.md 재고 기준은 2026-04-06 기준: 한국형 고급형 완성품 120개, 한국형 일반형 41개, 증정품(일반형) 3대 등. 당일 출고량 산정 불가, 재고 변동 반영 없음.",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.754502436518669,
+      "totalScore": 1.1056523501873015,
       "maxScore": 0.38142555654048915,
       "firstRecalledAt": "2026-05-04T16:00:46.547Z",
-      "lastRecalledAt": "2026-05-05T07:00:20.854Z",
+      "lastRecalledAt": "2026-05-06T07:00:16.687Z",
       "queryHashes": [
         "f07c44daf267",
-        "243880359a6b"
+        "243880359a6b",
+        "b99c8b48020b"
       ],
       "recallDays": [
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-06"
       ],
       "conceptTags": [
         "users/mac/library/mobile",
@@ -196,6 +198,37 @@
         "memory.md에",
         "스타퍼/논스립패드",
         "4/6이라"
+      ]
+    },
+    "memory:memory/work-logs/2026-05-06.md:1:8": {
+      "key": "memory:memory/work-logs/2026-05-06.md:1:8",
+      "path": "memory/work-logs/2026-05-06.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "# 2026-05-06 업무 로그 ## 택배 출고 | 시간 | 상품 | 수량 | 비고 | |------|------|------|------| | 15:32 | 퍼티스트2 고급형 | 3대 | 파이오니어 입력 |",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38760429024696347,
+      "maxScore": 0.38760429024696347,
+      "firstRecalledAt": "2026-05-06T07:00:16.687Z",
+      "lastRecalledAt": "2026-05-06T07:00:16.687Z",
+      "queryHashes": [
+        "b99c8b48020b"
+      ],
+      "recallDays": [
+        "2026-05-06"
+      ],
+      "conceptTags": [
+        "업무",
+        "로그",
+        "택배",
+        "출고",
+        "시간",
+        "상품",
+        "수량",
+        "비고"
       ]
     }
   }
