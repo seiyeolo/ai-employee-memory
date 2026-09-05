@@ -1,0 +1,1 @@
+[sales/sessions/sales/cf1d78fe-f152-47a4-9612-23053a673a0a#L12] Assistant: 브라우저로 네이버 스마트스토어 대시보드에 접속하여 일일 점검을 수행하겠습니다.
