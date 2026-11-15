@@ -3,6 +3,8 @@
 # GitHub ↔ 로컬 워크스페이스 양방향 동기화
 # 사용법: ./sync.sh (또는 크론으로 자동 실행)
 
+# /usr/local/bin/git는 x86_64 바이너리라 이 arm64 Mac에서 "bad CPU type"으로 실패 → Homebrew arm64 git을 먼저 찾게 함
+export PATH="/opt/homebrew/bin:$PATH"
 REPO_DIR=~/PARA/1_Projects/clawd/ai-employee-memory
 HOSTNAME=$(hostname -s)
 TIMESTAMP=$(date '+%Y-%m-%d %H:%M')
